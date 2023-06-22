@@ -1,4 +1,4 @@
-import React from 'react' //* Hay que importarla de REact */
+import React from 'react' //* Hay que importarla de React */
 
 export const PortafolioApp = () => { //* Exportamos la variable que queremos utilizar en otros lugares */
     return ( //* Lo que voy a Devolver */
